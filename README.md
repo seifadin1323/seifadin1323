@@ -1,6 +1,5 @@
 ## Hi I'm Seif Edin  👋
-
-<!--<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
 **seifadin1323/seifadin1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
